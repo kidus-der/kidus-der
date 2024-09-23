@@ -21,11 +21,11 @@
 
 ### :man_technologist: About Me : I am an aspiring Software Engineer!
 
-- :telescope: I’m working as a Machine Learning Researcher and contributing to the development and implementation of ML algorithms.
+- :telescope: I have experience as a Machine Learning Research VOlunteer and contributing to the development and implementation of ML algorithms.
 
-- :seedling: Exploring deep learning neural nets and how we can use machine learning models in the financial sphere.
+- :seedling: Exploring deep learning neural nets and how we can use machine learning models in different spheres.
 
-- :camera: In my free time, I enjoy reading and taking photographs throughout my day.
+- :camera: In my free time, I enjoy reading and photography throughout my day.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kidus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kidus-dereje-zewde-804424241/)
 
