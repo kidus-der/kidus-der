@@ -19,7 +19,7 @@
 
 ---
 
-### :man_technologist: About Me : I am an aspiring data scientist and ML developer! <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30">
+### :man_technologist: About Me : I am an aspiring Software Engineer!
 
 - :telescope: I’m working as a Machine Learning Researcher and contributing to the development and implementation of ML algorithms.
 
