@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me : I am an aspiring Software Engineer!
 
-- :telescope: I have experience as a Machine Learning Research VOlunteer and contributing to the development and implementation of ML algorithms.
+- :telescope: I have experience as a Machine Learning Research Volunteer and contributing to the development and implementation of ML algorithms.
 
 - :seedling: Exploring deep learning neural nets and how we can use machine learning models in different spheres.
 
