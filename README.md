@@ -23,7 +23,7 @@
 
 - :telescope: I have experience as a Machine Learning Research Volunteer and contributing to the development and implementation of ML algorithms.
 
-- :seedling: Exploring deep learning neural nets and how we can use machine learning models in different spheres.
+- :seedling: Exploring deep learning neural nets and how we can use machine learning models in different spheres, along with developing fun CLI tools in my free time:).
 
 - :camera: In my free time, I enjoy reading and photography throughout my day.
 
