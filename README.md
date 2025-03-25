@@ -19,7 +19,7 @@
 
 ---
 
-### :man_technologist: About Me : I am an aspiring Software Engineer!
+### :man_technologist: About Me!
 
 - :telescope: I have experience as a Machine Learning Intern contributing to the development and implementation of a custom Deepfake Detection model that is aimed to universally identify Ai generated images accurately.
 
