@@ -21,7 +21,9 @@
 
 ### :man_technologist: About Me : I am an aspiring Software Engineer!
 
-- :telescope: I have experience as a Machine Learning Researcher and contributing to the development and implementation of ML algorithms.
+- :telescope: I have experience as a Machine Learning Intern contributing to the development and implementation of a custom Deepfake Detection model that is aimed to universally identify Ai generated images accurately.
+
+- :books: I have co-authored research papers(submitted @ IEEE) on the efficiency of current deepfake detection models and their ability to generalise across different generative AI families (currently available on arxiv: https://arxiv.org/abs/2502.10920)
 
 - :seedling: I build apps, explore deep learning neural nets, research how we can use machine learning models in different spheres, and develop fun CLI tools in my free time:).
 
@@ -76,7 +78,7 @@
 ---
 
 ### :fire: My Github Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kidus-der)](https://git.io/streak-stats)
+![Kidus's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidus-der&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidus-der&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
