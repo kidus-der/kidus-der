@@ -21,13 +21,13 @@
 
 ### :man_technologist: About Me!
 
-- :telescope: I have experience as a Machine Learning Intern contributing to the development and implementation of a custom Deepfake Detection model that is aimed to universally identify Ai generated images accurately.
+- :telescope: I have experience as a Machine Learning Intern contributing to the development and implementation of AI-generated Deepfake Detection software aimed at universally identifying AI-generated/filtered/modified content accurately.
 
-- :books: I have co-authored research papers(submitted @ IEEE) on the efficiency of current deepfake detection models and their ability to generalise across different generative AI families (currently available on arxiv: https://arxiv.org/abs/2502.10920)
+- :books: I have co-authored research papers(submitted @ IEEE) on the efficiency of current deepfake detection models and their ability to generalise across different generative AI families (currently available on arxiv: https://arxiv.org/abs/2502.10920) and how accurate SOTA Multi-Modal LLMs are at detecting deepfake images (currently available on arxiv: https://arxiv.org/abs/2503.20084)
 
-- :seedling: I build apps, explore deep learning neural nets, research how we can use machine learning models in different spheres, and develop fun CLI tools in my free time:).
+- :seedling: I build apps, explore deep learning neural nets, research how we can use machine learning and AI in different spheres to bring about a positive impact, and develop fun CLI tools in my free time:).
 
-- :camera: In my free time, I enjoy reading and photography throughout my day.
+- :camera: In my free time, I enjoy film photography.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kidus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kidus-dereje-zewde-804424241/)
 
