@@ -1,16 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3KwliaH4MLtli8z7D/giphy.gif" width="250" height="250"/>
-</div>
-
 <div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=kidus-der&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hey, I'm Kidus!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <a href="https://www.linkedin.com/in/kidus-dereje-zewde-804424241/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=kidus-der&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hello there, I'm Kidus!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
 
 <div align="center">
@@ -21,7 +17,7 @@
 
 ### :man_technologist: About Me!
 
-- :telescope: I have experience as a Machine Learning Intern contributing to the development and implementation of AI-generated Deepfake Detection software aimed at universally identifying AI-generated/filtered/modified content accurately.
+- :telescope: I currently work as a Machine Learning Engineer Intern at [Scam.ai](https://www.scam.ai/), contributing to the development and implementation of AI-generated Deepfake Detection software aimed at universally identifying AI-generated/filtered/modified content accurately.
 
 - :books: I have co-authored research papers(submitted @ IEEE) on the efficiency of current deepfake detection models and their ability to generalise across different generative AI families (currently available on arxiv: https://arxiv.org/abs/2502.10920) and how accurate SOTA Multi-Modal LLMs are at detecting deepfake images (currently available on arxiv: https://arxiv.org/abs/2503.20084)
 
@@ -78,9 +74,10 @@
 ---
 
 ### :fire: My Github Stats :
-![Kidus's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidus-der&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidus-der&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kidus-der&show_icons=true&theme=great-gatsby" alt="Kidus's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidus-der&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="170" />
+</div>
 
 
 
