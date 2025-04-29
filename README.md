@@ -23,7 +23,7 @@
 
 - :seedling: I build apps, explore deep learning neural nets, research how we can use machine learning and AI in different spheres to bring about a positive impact, and develop fun CLI tools in my free time:).
 
-- :camera: In my free time, I enjoy film photography.
+- :camera: When I'm not programming(i.e. debugging for hours to no avail), I enjoy film photography.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kidus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kidus-dereje-zewde-804424241/)
 
