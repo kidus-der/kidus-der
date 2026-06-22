@@ -10,16 +10,16 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="400" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmc5cHhjdzdma2kzdXhlMXh2NmszMGY2aG5oeWJrZmlyMHNtdzRubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400" height="300"/>
 </div>
 
 ---
 
 ### :man_technologist: About Me!
 
-- :telescope: I currently work as a Machine Learning Engineer Intern at [Scam.ai](https://www.scam.ai/), contributing to the development and implementation of AI-generated Deepfake Detection software aimed at universally identifying AI-generated/filtered/modified content accurately.
+- :telescope: I currently work as a Founding Engineer at [Scam.ai](https://www.scam.ai/), contributing to the development and implementation of AI-generated Deepfake and Image Detection software aimed at universally identifying AI-generated/filtered/modified content accurately.
 
-- :books: I have co-authored research papers(submitted @ IEEE) on the efficiency of current deepfake detection models and their ability to generalise across different generative AI families (currently available on arxiv: https://arxiv.org/abs/2502.10920) and how accurate SOTA Multi-Modal LLMs are at detecting deepfake images (currently available on arxiv: https://arxiv.org/abs/2503.20084)
+- :books: I have co-authored research papers(submitted @ ACM) on the efficiency of current deepfake detection models and their ability to generalise across different generative AI families (currently available on arxiv: https://arxiv.org/abs/2502.10920) and how accurate SOTA Multi-Modal LLMs are at detecting deepfake images (currently available on arxiv: https://arxiv.org/abs/2503.20084)
 
 - :seedling: I build apps, explore deep learning neural nets, research how we can use machine learning and AI in different spheres to bring about a positive impact, and develop fun CLI tools in my free time:).
 
