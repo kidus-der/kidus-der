@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Selam, I'm Kidus Dereje">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="hey, I'm Kidus. Founding Engineer / Builder">
   <style>
-    .hi { font: 600 30px 'Kefa', 'Nyala', 'Ebrima', 'Noto Sans Ethiopic', 'Abyssinica SIL', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #A8641A; }
-    .name { font: 700 42px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #1F2328; letter-spacing: -0.5px; }
-    .sub { font: 400 15px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #59636E; }
+    .name { font: 700 44px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #1F2328; letter-spacing: -0.8px; }
+    .dot { fill: #A8641A; }
+    .sub { font: 400 16px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #59636E; }
   </style>
   <rect x="520" y="38" width="13" height="13" rx="2.5" fill="#A8641A" opacity="0.02"/>
   <rect x="520" y="55" width="13" height="13" rx="2.5" fill="#A8641A" opacity="0.0"/>
@@ -158,7 +158,6 @@
   <rect x="877" y="106" width="13" height="13" rx="2.5" fill="#A8641A" opacity="0.44"/>
   <rect x="877" y="123" width="13" height="13" rx="2.5" fill="#A8641A" opacity="0.8"/>
   <rect x="877" y="140" width="13" height="13" rx="2.5" fill="#A8641A" opacity="0.44"/>
-  <text class="hi" x="24" y="72">ሰላም,</text>
-  <text class="name" x="24" y="122">I'm Kidus Dereje</text>
-  <text class="sub" x="26" y="156">ml engineer / deepfake + document forensics</text>
+  <text class="name" x="22" y="104">hey, I'm Kidus<tspan class="dot">.</tspan></text>
+  <text class="sub" x="25" y="142">Founding Engineer / Builder</text>
 </svg>

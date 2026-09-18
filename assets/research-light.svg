@@ -1,45 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="11 papers: benchmarks 5, datasets 4, deepfakes 3, documents 3, behavioral 3, llm eval 3, audio 1">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-label="Research topics: deepfakes, benchmarks, documents, llm eval, behavioral, audio, datasets">
   <style>
-    .big { font: 700 64px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #1F2328; letter-spacing: -2px; }
-    .label { font: 500 14px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #59636E; }
-    .tick { font: 400 13px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #59636E; }
+    .edge { stroke: #D0D7DE; stroke-width: 1.2; fill: none; }
+    .pulse { fill: #A8641A; }
+    .paper { fill: #1F2328; }
+    .topic-node { fill: #A8641A; }
+    .ring { fill: none; stroke: #A8641A; stroke-width: 1.5; }
+    .topic { font: 500 13px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #1F2328; }
+    .legend { font: 400 12px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #59636E; }
   </style>
-  <line x1="300" y1="24" x2="300" y2="216" stroke="#EAEEF2" stroke-width="1.5"/>
-  <text class="big" x="24" y="92">11</text>
-  <text class="label" x="26" y="120">papers since 2025</text>
-  <text class="tick" x="26" y="169">2025</text>
-  <rect x="72" y="158" width="13" height="13" rx="2.5" fill="#A8641A"/><rect x="89" y="158" width="13" height="13" rx="2.5" fill="#A8641A"/><rect x="106" y="158" width="13" height="13" rx="2.5" fill="#A8641A"/>
-  <text class="tick" x="129" y="169">3</text>
-  <text class="tick" x="26" y="197">2026</text>
-  <rect x="72" y="186" width="13" height="13" rx="2.5" fill="#A8641A"/><rect x="89" y="186" width="13" height="13" rx="2.5" fill="#A8641A"/><rect x="106" y="186" width="13" height="13" rx="2.5" fill="#A8641A"/><rect x="123" y="186" width="13" height="13" rx="2.5" fill="#A8641A"/><rect x="140" y="186" width="13" height="13" rx="2.5" fill="#A8641A"/><rect x="157" y="186" width="13" height="13" rx="2.5" fill="#A8641A"/><rect x="174" y="186" width="13" height="13" rx="2.5" fill="#A8641A"/><rect x="191" y="186" width="13" height="13" rx="2.5" fill="#A8641A"/>
-  <text class="tick" x="214" y="197">8</text>
-  <text class="label" x="360" y="30">by topic</text>
-  <text class="tick" x="360" y="56">benchmarks</text>
-  <rect x="470" y="45" width="360" height="14" rx="7" fill="#EAEEF2"/>
-  <rect x="470" y="45" width="360" height="14" rx="7" fill="#A8641A" opacity="1.00"/>
-  <text class="tick" x="842" y="56">5</text>
-  <text class="tick" x="360" y="84">datasets</text>
-  <rect x="470" y="73" width="360" height="14" rx="7" fill="#EAEEF2"/>
-  <rect x="470" y="73" width="288" height="14" rx="7" fill="#A8641A" opacity="0.92"/>
-  <text class="tick" x="842" y="84">4</text>
-  <text class="tick" x="360" y="112">deepfakes</text>
-  <rect x="470" y="101" width="360" height="14" rx="7" fill="#EAEEF2"/>
-  <rect x="470" y="101" width="216" height="14" rx="7" fill="#A8641A" opacity="0.84"/>
-  <text class="tick" x="842" y="112">3</text>
-  <text class="tick" x="360" y="140">documents</text>
-  <rect x="470" y="129" width="360" height="14" rx="7" fill="#EAEEF2"/>
-  <rect x="470" y="129" width="216" height="14" rx="7" fill="#A8641A" opacity="0.76"/>
-  <text class="tick" x="842" y="140">3</text>
-  <text class="tick" x="360" y="168">behavioral</text>
-  <rect x="470" y="157" width="360" height="14" rx="7" fill="#EAEEF2"/>
-  <rect x="470" y="157" width="216" height="14" rx="7" fill="#A8641A" opacity="0.68"/>
-  <text class="tick" x="842" y="168">3</text>
-  <text class="tick" x="360" y="196">llm eval</text>
-  <rect x="470" y="185" width="360" height="14" rx="7" fill="#EAEEF2"/>
-  <rect x="470" y="185" width="216" height="14" rx="7" fill="#A8641A" opacity="0.60"/>
-  <text class="tick" x="842" y="196">3</text>
-  <text class="tick" x="360" y="224">audio</text>
-  <rect x="470" y="213" width="360" height="14" rx="7" fill="#EAEEF2"/>
-  <rect x="470" y="213" width="72" height="14" rx="7" fill="#A8641A" opacity="0.52"/>
-  <text class="tick" x="842" y="224">1</text>
+  <path d="M463.0,103.1 L223.3,98.4" class="edge"/>
+  <path d="M463.0,103.1 L450.0,54.0" class="edge"/>
+  <path d="M463.0,103.1 L676.7,98.4" class="edge"/>
+  <path d="M639.1,162.3 L732.7,198.3" class="edge"/>
+  <path d="M639.1,162.3 L676.7,98.4" class="edge"/>
+  <path d="M286.0,174.4 L167.3,198.3" class="edge"/>
+  <path d="M286.0,174.4 L324.2,278.3" class="edge"/>
+  <path d="M286.0,174.4 L223.3,98.4" class="edge"/>
+  <path d="M516.9,218.5 L575.8,278.3" class="edge"/>
+  <path d="M516.9,218.5 L676.7,98.4" class="edge"/>
+  <path d="M516.9,218.5 L324.2,278.3" class="edge"/>
+  <path d="M296.6,124.1 L223.3,98.4" class="edge"/>
+  <path d="M659.7,146.6 L732.7,198.3" class="edge"/>
+  <path d="M659.7,146.6 L676.7,98.4" class="edge"/>
+  <path d="M309.1,197.3 L223.3,98.4" class="edge"/>
+  <path d="M309.1,197.3 L324.2,278.3" class="edge"/>
+  <path d="M584.6,114.8 L676.7,98.4" class="edge"/>
+  <path d="M621.5,228.2 L732.7,198.3" class="edge"/>
+  <path d="M621.5,228.2 L575.8,278.3" class="edge"/>
+  <path d="M487.1,172.4 L450.0,54.0" class="edge"/>
+  <path d="M487.1,172.4 L575.8,278.3" class="edge"/>
+  <path d="M455.5,87.1 L450.0,54.0" class="edge"/>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.00s" repeatCount="indefinite" path="M463.0,103.1 L223.3,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.53s" repeatCount="indefinite" path="M463.0,103.1 L450.0,54.0"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.53s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.06s" repeatCount="indefinite" path="M463.0,103.1 L676.7,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.06s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.59s" repeatCount="indefinite" path="M639.1,162.3 L732.7,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.59s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.12s" repeatCount="indefinite" path="M639.1,162.3 L676.7,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.12s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.65s" repeatCount="indefinite" path="M286.0,174.4 L167.3,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.65s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.18s" repeatCount="indefinite" path="M286.0,174.4 L324.2,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.18s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.71s" repeatCount="indefinite" path="M286.0,174.4 L223.3,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.71s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.24s" repeatCount="indefinite" path="M516.9,218.5 L575.8,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.24s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.77s" repeatCount="indefinite" path="M516.9,218.5 L676.7,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.77s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.30s" repeatCount="indefinite" path="M516.9,218.5 L324.2,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.30s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.83s" repeatCount="indefinite" path="M296.6,124.1 L223.3,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.83s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.36s" repeatCount="indefinite" path="M659.7,146.6 L732.7,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.36s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.89s" repeatCount="indefinite" path="M659.7,146.6 L676.7,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.89s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.42s" repeatCount="indefinite" path="M309.1,197.3 L223.3,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.42s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.95s" repeatCount="indefinite" path="M309.1,197.3 L324.2,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.95s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.48s" repeatCount="indefinite" path="M584.6,114.8 L676.7,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.48s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.01s" repeatCount="indefinite" path="M621.5,228.2 L732.7,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.01s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.54s" repeatCount="indefinite" path="M621.5,228.2 L575.8,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.54s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.07s" repeatCount="indefinite" path="M487.1,172.4 L450.0,54.0"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.07s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.60s" repeatCount="indefinite" path="M487.1,172.4 L575.8,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.60s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.13s" repeatCount="indefinite" path="M455.5,87.1 L450.0,54.0"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.13s" repeatCount="indefinite"/></circle>
+  <circle cx="463.0" cy="103.1" r="4.5" class="paper"><title>ChatGPT Images 2.5 in the Wild</title></circle>
+  <circle cx="639.1" cy="162.3" r="4.5" class="paper"><title>Advertised vs Measured: Images 2.5</title></circle>
+  <circle cx="286.0" cy="174.4" r="4.5" class="paper"><title>Anatomy of a Scam Call</title></circle>
+  <circle cx="516.9" cy="218.5" r="4.5" class="paper"><title>CallScreenBench</title></circle>
+  <circle cx="296.6" cy="124.1" r="4.5" class="paper"><title>GPT-Image-2 in the Wild</title></circle>
+  <circle cx="659.7" cy="146.6" r="4.5" class="paper"><title>When the Forger Is the Judge</title></circle>
+  <circle cx="309.1" cy="197.3" r="4.5" class="paper"><title>Synthetic Eye Movement Dataset</title></circle>
+  <circle cx="584.6" cy="114.8" r="4.5" class="paper"><title>Open Source Detector Benchmark</title></circle>
+  <circle cx="621.5" cy="228.2" r="4.5" class="paper"><title>Can LLMs Detect Document Manipulation?</title></circle>
+  <circle cx="487.1" cy="172.4" r="4.5" class="paper"><title>Can LLMs Work as Deepfake Detectors?</title></circle>
+  <circle cx="455.5" cy="87.1" r="4.5" class="paper"><title>Do Deepfake Detectors Work in Reality?</title></circle>
+  <circle cx="450.0" cy="54.0" r="13.6" class="ring" opacity="0"><animate attributeName="r" values="13.6;27.6" dur="3s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="0.00s" repeatCount="indefinite"/></circle>
+  <circle cx="450.0" cy="54.0" r="13.6" class="topic-node"/>
+  <circle cx="676.7" cy="98.4" r="18.0" class="ring" opacity="0"><animate attributeName="r" values="18.0;32.0" dur="3s" begin="0.45s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="0.45s" repeatCount="indefinite"/></circle>
+  <circle cx="676.7" cy="98.4" r="18.0" class="topic-node"/>
+  <circle cx="732.7" cy="198.3" r="13.6" class="ring" opacity="0"><animate attributeName="r" values="13.6;27.6" dur="3s" begin="0.90s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="0.90s" repeatCount="indefinite"/></circle>
+  <circle cx="732.7" cy="198.3" r="13.6" class="topic-node"/>
+  <circle cx="575.8" cy="278.3" r="13.6" class="ring" opacity="0"><animate attributeName="r" values="13.6;27.6" dur="3s" begin="1.35s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="1.35s" repeatCount="indefinite"/></circle>
+  <circle cx="575.8" cy="278.3" r="13.6" class="topic-node"/>
+  <circle cx="324.2" cy="278.3" r="13.6" class="ring" opacity="0"><animate attributeName="r" values="13.6;27.6" dur="3s" begin="1.80s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="1.80s" repeatCount="indefinite"/></circle>
+  <circle cx="324.2" cy="278.3" r="13.6" class="topic-node"/>
+  <circle cx="167.3" cy="198.3" r="9.2" class="ring" opacity="0"><animate attributeName="r" values="9.2;23.2" dur="3s" begin="2.25s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="2.25s" repeatCount="indefinite"/></circle>
+  <circle cx="167.3" cy="198.3" r="9.2" class="topic-node"/>
+  <circle cx="223.3" cy="98.4" r="15.8" class="ring" opacity="0"><animate attributeName="r" values="15.8;29.8" dur="3s" begin="2.70s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="2.70s" repeatCount="indefinite"/></circle>
+  <circle cx="223.3" cy="98.4" r="15.8" class="topic-node"/>
+  <text class="topic" x="450.0" y="30.4" text-anchor="middle">deepfakes</text>
+  <text class="topic" x="704.7" y="102.4" text-anchor="start">benchmarks</text>
+  <text class="topic" x="756.3" y="202.3" text-anchor="start">documents</text>
+  <text class="topic" x="599.4" y="282.3" text-anchor="start">llm eval</text>
+  <text class="topic" x="300.6" y="282.3" text-anchor="end">behavioral</text>
+  <text class="topic" x="148.1" y="202.3" text-anchor="end">audio</text>
+  <text class="topic" x="197.5" y="102.4" text-anchor="end">datasets</text>
+  <circle cx="22" cy="336" r="4" class="paper"/>
+  <text class="legend" x="32" y="340">paper</text>
+  <circle cx="96" cy="336" r="6" class="topic-node"/>
+  <text class="legend" x="108" y="340">topic (bigger = more papers)</text>
 </svg>
