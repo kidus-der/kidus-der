@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="11 papers: benchmarks 5, datasets 4, deepfakes 3, documents 3, behavioral 3, llm eval 3, audio 1">
+  <style>
+    .big { font: 700 64px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #E6EDF3; letter-spacing: -2px; }
+    .label { font: 500 14px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #8B949E; }
+    .tick { font: 400 13px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #8B949E; }
+  </style>
+  <line x1="300" y1="24" x2="300" y2="216" stroke="#21262D" stroke-width="1.5"/>
+  <text class="big" x="24" y="92">11</text>
+  <text class="label" x="26" y="120">papers since 2025</text>
+  <text class="tick" x="26" y="169">2025</text>
+  <rect x="72" y="158" width="13" height="13" rx="2.5" fill="#E8B06A"/><rect x="89" y="158" width="13" height="13" rx="2.5" fill="#E8B06A"/><rect x="106" y="158" width="13" height="13" rx="2.5" fill="#E8B06A"/>
+  <text class="tick" x="129" y="169">3</text>
+  <text class="tick" x="26" y="197">2026</text>
+  <rect x="72" y="186" width="13" height="13" rx="2.5" fill="#E8B06A"/><rect x="89" y="186" width="13" height="13" rx="2.5" fill="#E8B06A"/><rect x="106" y="186" width="13" height="13" rx="2.5" fill="#E8B06A"/><rect x="123" y="186" width="13" height="13" rx="2.5" fill="#E8B06A"/><rect x="140" y="186" width="13" height="13" rx="2.5" fill="#E8B06A"/><rect x="157" y="186" width="13" height="13" rx="2.5" fill="#E8B06A"/><rect x="174" y="186" width="13" height="13" rx="2.5" fill="#E8B06A"/><rect x="191" y="186" width="13" height="13" rx="2.5" fill="#E8B06A"/>
+  <text class="tick" x="214" y="197">8</text>
+  <text class="label" x="360" y="30">by topic</text>
+  <text class="tick" x="360" y="56">benchmarks</text>
+  <rect x="470" y="45" width="360" height="14" rx="7" fill="#21262D"/>
+  <rect x="470" y="45" width="360" height="14" rx="7" fill="#E8B06A" opacity="1.00"/>
+  <text class="tick" x="842" y="56">5</text>
+  <text class="tick" x="360" y="84">datasets</text>
+  <rect x="470" y="73" width="360" height="14" rx="7" fill="#21262D"/>
+  <rect x="470" y="73" width="288" height="14" rx="7" fill="#E8B06A" opacity="0.92"/>
+  <text class="tick" x="842" y="84">4</text>
+  <text class="tick" x="360" y="112">deepfakes</text>
+  <rect x="470" y="101" width="360" height="14" rx="7" fill="#21262D"/>
+  <rect x="470" y="101" width="216" height="14" rx="7" fill="#E8B06A" opacity="0.84"/>
+  <text class="tick" x="842" y="112">3</text>
+  <text class="tick" x="360" y="140">documents</text>
+  <rect x="470" y="129" width="360" height="14" rx="7" fill="#21262D"/>
+  <rect x="470" y="129" width="216" height="14" rx="7" fill="#E8B06A" opacity="0.76"/>
+  <text class="tick" x="842" y="140">3</text>
+  <text class="tick" x="360" y="168">behavioral</text>
+  <rect x="470" y="157" width="360" height="14" rx="7" fill="#21262D"/>
+  <rect x="470" y="157" width="216" height="14" rx="7" fill="#E8B06A" opacity="0.68"/>
+  <text class="tick" x="842" y="168">3</text>
+  <text class="tick" x="360" y="196">llm eval</text>
+  <rect x="470" y="185" width="360" height="14" rx="7" fill="#21262D"/>
+  <rect x="470" y="185" width="216" height="14" rx="7" fill="#E8B06A" opacity="0.60"/>
+  <text class="tick" x="842" y="196">3</text>
+  <text class="tick" x="360" y="224">audio</text>
+  <rect x="470" y="213" width="360" height="14" rx="7" fill="#21262D"/>
+  <rect x="470" y="213" width="72" height="14" rx="7" fill="#E8B06A" opacity="0.52"/>
+  <text class="tick" x="842" y="224">1</text>
+</svg>

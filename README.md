@@ -1,84 +1,71 @@
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=kidus-der&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey, I'm Kidus!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <a href="https://www.linkedin.com/in/kidus-dereje-zewde-804424241/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a><br>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img alt="ሰላም, I'm Kidus Dereje" src="./assets/header-light.svg" width="100%">
+</picture>
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmc5cHhjdzdma2kzdXhlMXh2NmszMGY2aG5oeWJrZmlyMHNtdzRubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400" height="300"/>
-</div>
+<p>
+  <a href="https://www.kidusder.com"><img src="https://img.shields.io/badge/kidusder.com-1f2328?style=flat-square&logo=googlechrome&logoColor=E8B06A" alt="website"></a>
+  <a href="https://www.linkedin.com/in/kidus-dereje-zewde-804424241/"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square&logo=linkedin&logoColor=E8B06A" alt="linkedin"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=t-5ck6wAAAAJ"><img src="https://img.shields.io/badge/Scholar-1f2328?style=flat-square&logo=googlescholar&logoColor=E8B06A" alt="google scholar"></a>
+  <a href="mailto:kidusdereje41@gmail.com"><img src="https://img.shields.io/badge/email-1f2328?style=flat-square&logo=gmail&logoColor=E8B06A" alt="email"></a>
+</p>
 
----
+ሰላም (sälam) means peace in Amharic. It's how people say hello in Ethiopia and Eritrea, so, hi.
 
-### :man_technologist: About Me!
+I'm a founding engineer at [Scam AI](https://www.scam.ai/en), where I build systems that figure out whether an image, video, document, or voice is real. I studied Computing Science and Economics at the University of Alberta. Most of my time goes to two things: writing papers about how well detectors actually hold up once they leave the lab, and then making the ones we ship hold up better.
 
-- :telescope: I currently work as a Founding Engineer at [Scam.ai](https://www.scam.ai/), contributing to the development and implementation of AI-generated Deepfake and Image Detection software aimed at universally identifying AI-generated/filtered/modified content accurately.
+When I'm not doing that I'm probably shooting film or making coffee.
 
-- :books: I have co-authored research papers(submitted @ ACM) on the efficiency of current deepfake detection models and their ability to generalise across different generative AI families (currently available on arxiv: https://arxiv.org/abs/2502.10920) and how accurate SOTA Multi-Modal LLMs are at detecting deepfake images (currently available on arxiv: https://arxiv.org/abs/2503.20084)
+### what I'm working on
 
-- :seedling: I build apps, explore deep learning neural nets, research how we can use machine learning and AI in different spheres to bring about a positive impact, and develop fun CLI tools in my free time:).
+- **Eva**, Scam AI's detection engine. I built a lot of the core pipelines: face swaps, lip sync, GAN and diffusion fingerprints, document forgery, voice clones. It catches 98.2% of deepfakes in under 4 seconds.
+- **Halo**, which we shipped with Qualcomm. It checks live Zoom, Teams and Meet calls for deepfakes about 4 times a second, fully on device, so your video never gets uploaded anywhere.
+- Poking at every new image model the week it drops to see how badly it breaks document forensics. Usually pretty badly.
 
-- :camera: When I'm not programming(i.e. debugging for hours to no avail), I enjoy film photography.
+### research
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kidus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kidus-dereje-zewde-804424241/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/research-dark.svg">
+  <img alt="11 papers since 2025, mostly benchmarks and datasets" src="./assets/research-light.svg" width="100%">
+</picture>
 
----
+A few I like:
 
-### 🧰: Languages and Tools I Use:
+- [Anatomy of a Scam Call](https://arxiv.org/abs/2608.24127): we let an AI voice agent pick up 10,000+ real scam calls and studied how the scammers work. You can tell a call is going to escalate from the first few lines.
+- [When the Forger Is the Judge](https://arxiv.org/abs/2604.25213): GPT-Image-2 can fake a receipt field so cleanly that forensic tools drop to near coin flip, and it can't spot its own edits either.
+- [How well do open source AI image detectors work out of the box?](https://arxiv.org/abs/2602.07814): 23 detectors, 12 datasets, 2.6M images. Short answer: it depends a lot on what they were trained on.
+- [Do Deepfake Detectors Work in Reality?](https://dl.acm.org/doi/10.1145/3709022.3736545): my first one (ACM). Turns out a bit of super resolution goes a long way toward fooling them.
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" **alt="Rust" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" title="KiCAD" alt="KiCAD" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-origi  nal.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" **alt="Golang" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>&nbsp;
-  
-</div>
+The full list is on [my site](https://www.kidusder.com/about#publications) and [Scholar](https://scholar.google.com/citations?hl=en&user=t-5ck6wAAAAJ).
 
----
+### stuff I build with
 
-### :fire: My Github Stats :
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kidus-der&show_icons=true&theme=great-gatsby" alt="Kidus's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidus-der&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="170" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,django,flask,ts,js,react,nextjs,tailwind,aws,docker,kubernetes,postgres,mongodb,c,java,r,git,linux&perline=11&theme=dark">
+  <img alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Django, Flask, TypeScript, JavaScript, React, Next.js, Tailwind, AWS, Docker, Kubernetes, Postgres, MongoDB, C, Java, R, Git, Linux" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,django,flask,ts,js,react,nextjs,tailwind,aws,docker,kubernetes,postgres,mongodb,c,java,r,git,linux&perline=11&theme=light">
+</picture>
 
+### on github
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/contrib-3d-dark.svg">
+  <img alt="3D contribution calendar" src="./profile/contrib-3d-light.svg" width="100%">
+</picture>
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img alt="GitHub stats" src="./profile/stats-light.svg" height="165">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/langs-dark.svg">
+    <img alt="Most used languages" src="./profile/langs-light.svg" height="165">
+  </picture>
+</p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kidus-der&hide_border=true&background=00000000&ring=E8B06A&fire=E8B06A&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=E8B06A&sideLabels=8B949E&dates=8B949E&stroke=30363D">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=kidus-der&hide_border=true&background=00000000&ring=A8641A&fire=A8641A&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=A8641A&sideLabels=59636E&dates=59636E&stroke=D0D7DE">
+</picture>
+
+<sub>cards refresh daily through a GitHub Action, charts are generated by <code>scripts/make_assets.py</code></sub>
