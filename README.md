@@ -1,11 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img alt="hey, I'm Kidus. Founding Engineer / Builder" src="./assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=4">
+  <img alt="hey, I'm Kidus. Founding Engineer / Builder" src="./assets/header-light.svg?v=4" width="100%">
 </picture>
 
 <p>
   <a href="https://www.kidusder.com"><img src="https://img.shields.io/badge/kidusder.com-1f2328?style=flat-square&logo=googlechrome&logoColor=E8B06A" alt="website"></a>
-  <a href="https://www.linkedin.com/in/kidus-dereje-zewde-804424241/"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square&logo=linkedin&logoColor=E8B06A" alt="linkedin"></a>
+  <a href="https://www.linkedin.com/in/kidus-dereje-zewde-804424241/"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiNFOEIwNkEiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="linkedin"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=t-5ck6wAAAAJ"><img src="https://img.shields.io/badge/Scholar-1f2328?style=flat-square&logo=googlescholar&logoColor=E8B06A" alt="google scholar"></a>
   <a href="mailto:kidusdereje41@gmail.com"><img src="https://img.shields.io/badge/email-1f2328?style=flat-square&logo=gmail&logoColor=E8B06A" alt="email"></a>
 </p>
@@ -25,8 +25,8 @@ When I'm not doing that I'm probably shooting film or making coffee.
 ### research
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/research-dark.svg">
-  <img alt="Graph linking each paper to its topics: deepfakes, benchmarks, documents, llm eval, behavioral, audio, datasets" src="./assets/research-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/research-dark.svg?v=4">
+  <img alt="Graph linking each paper to its topics: deepfakes, benchmarks, documents, llm eval, behavioral, audio, datasets" src="./assets/research-light.svg?v=4" width="100%">
 </picture>
 
 A few I like:
@@ -41,8 +41,8 @@ The full list is on [my site](https://www.kidusder.com/about#publications) and [
 ### stuff I build with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <img alt="ML: PyTorch, TensorFlow, scikit-learn, Hugging Face, NumPy, pandas, ONNX, W&amp;B. Agents: Claude, OpenAI, MCP, LangChain, LangGraph, CrewAI, Pydantic AI, vLLM, Ollama, LiveKit, ElevenLabs, Deepgram" src="./assets/stack-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg?v=4">
+  <img alt="ML: PyTorch, TensorFlow, scikit-learn, Hugging Face, NumPy, pandas, ONNX, W&amp;B. Agents: Claude, OpenAI, MCP, LangChain, LangGraph, CrewAI, Pydantic AI, vLLM, Ollama, LiveKit, ElevenLabs, Deepgram" src="./assets/stack-light.svg?v=4" width="100%">
 </picture>
 
 ### on github

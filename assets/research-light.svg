@@ -1,89 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-label="Research topics: deepfake detection, detector benchmarks, document forgery, LLM evaluation, behavioral signals, scam call audio, in-the-wild datasets">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-label="Research topics: Deepfake/Gen AI Detection, AI Fraud detection benchmarks, AI Document Forgery, LLM evaluation, Deceptive behaviour signals, Scam call voice analysis, In-the-wild forensic datasets">
   <style>
     .edge { stroke: #D0D7DE; stroke-width: 1.2; fill: none; }
     .pulse { fill: #A8641A; }
     .paper { fill: #1F2328; }
     .topic-node { fill: #A8641A; }
     .ring { fill: none; stroke: #A8641A; stroke-width: 1.5; }
-    .topic { font: 500 13px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #1F2328; }
+    .topic { font: 500 12px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #1F2328; }
     .legend { font: 400 12px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #59636E; }
   </style>
-  <path d="M463.0,103.1 L223.3,98.4" class="edge"/>
+  <path d="M463.0,103.1 L270.2,98.4" class="edge"/>
   <path d="M463.0,103.1 L450.0,54.0" class="edge"/>
-  <path d="M463.0,103.1 L676.7,98.4" class="edge"/>
-  <path d="M639.1,162.3 L732.7,198.3" class="edge"/>
-  <path d="M639.1,162.3 L676.7,98.4" class="edge"/>
-  <path d="M286.0,174.4 L167.3,198.3" class="edge"/>
-  <path d="M286.0,174.4 L324.2,278.3" class="edge"/>
-  <path d="M286.0,174.4 L223.3,98.4" class="edge"/>
-  <path d="M516.9,218.5 L575.8,278.3" class="edge"/>
-  <path d="M516.9,218.5 L676.7,98.4" class="edge"/>
-  <path d="M516.9,218.5 L324.2,278.3" class="edge"/>
-  <path d="M296.6,124.1 L223.3,98.4" class="edge"/>
-  <path d="M659.7,146.6 L732.7,198.3" class="edge"/>
-  <path d="M659.7,146.6 L676.7,98.4" class="edge"/>
-  <path d="M309.1,197.3 L223.3,98.4" class="edge"/>
-  <path d="M309.1,197.3 L324.2,278.3" class="edge"/>
-  <path d="M584.6,114.8 L676.7,98.4" class="edge"/>
-  <path d="M621.5,228.2 L732.7,198.3" class="edge"/>
-  <path d="M621.5,228.2 L575.8,278.3" class="edge"/>
-  <path d="M487.1,172.4 L450.0,54.0" class="edge"/>
-  <path d="M487.1,172.4 L575.8,278.3" class="edge"/>
+  <path d="M463.0,103.1 L629.8,98.4" class="edge"/>
+  <path d="M598.0,162.3 L674.2,198.3" class="edge"/>
+  <path d="M598.0,162.3 L629.8,98.4" class="edge"/>
+  <path d="M320.1,174.4 L225.8,198.3" class="edge"/>
+  <path d="M320.1,174.4 L350.2,278.3" class="edge"/>
+  <path d="M320.1,174.4 L270.2,98.4" class="edge"/>
+  <path d="M504.7,218.5 L549.8,278.3" class="edge"/>
+  <path d="M504.7,218.5 L629.8,98.4" class="edge"/>
+  <path d="M504.7,218.5 L350.2,278.3" class="edge"/>
+  <path d="M325.7,124.1 L270.2,98.4" class="edge"/>
+  <path d="M618.6,146.6 L674.2,198.3" class="edge"/>
+  <path d="M618.6,146.6 L629.8,98.4" class="edge"/>
+  <path d="M337.6,197.3 L270.2,98.4" class="edge"/>
+  <path d="M337.6,197.3 L350.2,278.3" class="edge"/>
+  <path d="M555.5,114.8 L629.8,98.4" class="edge"/>
+  <path d="M588.6,228.2 L674.2,198.3" class="edge"/>
+  <path d="M588.6,228.2 L549.8,278.3" class="edge"/>
+  <path d="M476.9,172.4 L450.0,54.0" class="edge"/>
+  <path d="M476.9,172.4 L549.8,278.3" class="edge"/>
   <path d="M455.5,87.1 L450.0,54.0" class="edge"/>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.00s" repeatCount="indefinite" path="M463.0,103.1 L223.3,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.00s" repeatCount="indefinite" path="M463.0,103.1 L270.2,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.00s" repeatCount="indefinite"/></circle>
   <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.53s" repeatCount="indefinite" path="M463.0,103.1 L450.0,54.0"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.53s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.06s" repeatCount="indefinite" path="M463.0,103.1 L676.7,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.06s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.59s" repeatCount="indefinite" path="M639.1,162.3 L732.7,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.59s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.12s" repeatCount="indefinite" path="M639.1,162.3 L676.7,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.12s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.65s" repeatCount="indefinite" path="M286.0,174.4 L167.3,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.65s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.18s" repeatCount="indefinite" path="M286.0,174.4 L324.2,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.18s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.71s" repeatCount="indefinite" path="M286.0,174.4 L223.3,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.71s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.24s" repeatCount="indefinite" path="M516.9,218.5 L575.8,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.24s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.77s" repeatCount="indefinite" path="M516.9,218.5 L676.7,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.77s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.30s" repeatCount="indefinite" path="M516.9,218.5 L324.2,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.30s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.83s" repeatCount="indefinite" path="M296.6,124.1 L223.3,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.83s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.36s" repeatCount="indefinite" path="M659.7,146.6 L732.7,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.36s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.89s" repeatCount="indefinite" path="M659.7,146.6 L676.7,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.89s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.42s" repeatCount="indefinite" path="M309.1,197.3 L223.3,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.42s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.95s" repeatCount="indefinite" path="M309.1,197.3 L324.2,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.95s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.48s" repeatCount="indefinite" path="M584.6,114.8 L676.7,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.48s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.01s" repeatCount="indefinite" path="M621.5,228.2 L732.7,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.01s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.54s" repeatCount="indefinite" path="M621.5,228.2 L575.8,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.54s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.07s" repeatCount="indefinite" path="M487.1,172.4 L450.0,54.0"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.07s" repeatCount="indefinite"/></circle>
-  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.60s" repeatCount="indefinite" path="M487.1,172.4 L575.8,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.60s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.06s" repeatCount="indefinite" path="M463.0,103.1 L629.8,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.06s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.59s" repeatCount="indefinite" path="M598.0,162.3 L674.2,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.59s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.12s" repeatCount="indefinite" path="M598.0,162.3 L629.8,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.12s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.65s" repeatCount="indefinite" path="M320.1,174.4 L225.8,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.65s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.18s" repeatCount="indefinite" path="M320.1,174.4 L350.2,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.18s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.71s" repeatCount="indefinite" path="M320.1,174.4 L270.2,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.71s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.24s" repeatCount="indefinite" path="M504.7,218.5 L549.8,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.24s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.77s" repeatCount="indefinite" path="M504.7,218.5 L629.8,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.77s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.30s" repeatCount="indefinite" path="M504.7,218.5 L350.2,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.30s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.83s" repeatCount="indefinite" path="M325.7,124.1 L270.2,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.83s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.36s" repeatCount="indefinite" path="M618.6,146.6 L674.2,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.36s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.89s" repeatCount="indefinite" path="M618.6,146.6 L629.8,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.89s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.42s" repeatCount="indefinite" path="M337.6,197.3 L270.2,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.42s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.95s" repeatCount="indefinite" path="M337.6,197.3 L350.2,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.95s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="0.48s" repeatCount="indefinite" path="M555.5,114.8 L629.8,98.4"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="0.48s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.01s" repeatCount="indefinite" path="M588.6,228.2 L674.2,198.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.01s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="1.54s" repeatCount="indefinite" path="M588.6,228.2 L549.8,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="1.54s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.07s" repeatCount="indefinite" path="M476.9,172.4 L450.0,54.0"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.07s" repeatCount="indefinite"/></circle>
+  <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="2.60s" repeatCount="indefinite" path="M476.9,172.4 L549.8,278.3"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="2.60s" repeatCount="indefinite"/></circle>
   <circle r="2.6" class="pulse" opacity="0"><animateMotion dur="2.6s" begin="3.13s" repeatCount="indefinite" path="M455.5,87.1 L450.0,54.0"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.8;1" dur="2.6s" begin="3.13s" repeatCount="indefinite"/></circle>
   <circle cx="463.0" cy="103.1" r="4.5" class="paper"><title>ChatGPT Images 2.5 in the Wild</title></circle>
-  <circle cx="639.1" cy="162.3" r="4.5" class="paper"><title>Advertised vs Measured: Images 2.5</title></circle>
-  <circle cx="286.0" cy="174.4" r="4.5" class="paper"><title>Anatomy of a Scam Call</title></circle>
-  <circle cx="516.9" cy="218.5" r="4.5" class="paper"><title>CallScreenBench</title></circle>
-  <circle cx="296.6" cy="124.1" r="4.5" class="paper"><title>GPT-Image-2 in the Wild</title></circle>
-  <circle cx="659.7" cy="146.6" r="4.5" class="paper"><title>When the Forger Is the Judge</title></circle>
-  <circle cx="309.1" cy="197.3" r="4.5" class="paper"><title>Synthetic Eye Movement Dataset</title></circle>
-  <circle cx="584.6" cy="114.8" r="4.5" class="paper"><title>Open Source Detector Benchmark</title></circle>
-  <circle cx="621.5" cy="228.2" r="4.5" class="paper"><title>Can LLMs Detect Document Manipulation?</title></circle>
-  <circle cx="487.1" cy="172.4" r="4.5" class="paper"><title>Can LLMs Work as Deepfake Detectors?</title></circle>
+  <circle cx="598.0" cy="162.3" r="4.5" class="paper"><title>Advertised vs Measured: Images 2.5</title></circle>
+  <circle cx="320.1" cy="174.4" r="4.5" class="paper"><title>Anatomy of a Scam Call</title></circle>
+  <circle cx="504.7" cy="218.5" r="4.5" class="paper"><title>CallScreenBench</title></circle>
+  <circle cx="325.7" cy="124.1" r="4.5" class="paper"><title>GPT-Image-2 in the Wild</title></circle>
+  <circle cx="618.6" cy="146.6" r="4.5" class="paper"><title>When the Forger Is the Judge</title></circle>
+  <circle cx="337.6" cy="197.3" r="4.5" class="paper"><title>Synthetic Eye Movement Dataset</title></circle>
+  <circle cx="555.5" cy="114.8" r="4.5" class="paper"><title>Open Source Detector Benchmark</title></circle>
+  <circle cx="588.6" cy="228.2" r="4.5" class="paper"><title>Can LLMs Detect Document Manipulation?</title></circle>
+  <circle cx="476.9" cy="172.4" r="4.5" class="paper"><title>Can LLMs Work as Deepfake Detectors?</title></circle>
   <circle cx="455.5" cy="87.1" r="4.5" class="paper"><title>Do Deepfake Detectors Work in Reality?</title></circle>
   <circle cx="450.0" cy="54.0" r="13.6" class="ring" opacity="0"><animate attributeName="r" values="13.6;27.6" dur="3s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="0.00s" repeatCount="indefinite"/></circle>
   <circle cx="450.0" cy="54.0" r="13.6" class="topic-node"/>
-  <circle cx="676.7" cy="98.4" r="18.0" class="ring" opacity="0"><animate attributeName="r" values="18.0;32.0" dur="3s" begin="0.45s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="0.45s" repeatCount="indefinite"/></circle>
-  <circle cx="676.7" cy="98.4" r="18.0" class="topic-node"/>
-  <circle cx="732.7" cy="198.3" r="13.6" class="ring" opacity="0"><animate attributeName="r" values="13.6;27.6" dur="3s" begin="0.90s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="0.90s" repeatCount="indefinite"/></circle>
-  <circle cx="732.7" cy="198.3" r="13.6" class="topic-node"/>
-  <circle cx="575.8" cy="278.3" r="13.6" class="ring" opacity="0"><animate attributeName="r" values="13.6;27.6" dur="3s" begin="1.35s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="1.35s" repeatCount="indefinite"/></circle>
-  <circle cx="575.8" cy="278.3" r="13.6" class="topic-node"/>
-  <circle cx="324.2" cy="278.3" r="13.6" class="ring" opacity="0"><animate attributeName="r" values="13.6;27.6" dur="3s" begin="1.80s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="1.80s" repeatCount="indefinite"/></circle>
-  <circle cx="324.2" cy="278.3" r="13.6" class="topic-node"/>
-  <circle cx="167.3" cy="198.3" r="9.2" class="ring" opacity="0"><animate attributeName="r" values="9.2;23.2" dur="3s" begin="2.25s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="2.25s" repeatCount="indefinite"/></circle>
-  <circle cx="167.3" cy="198.3" r="9.2" class="topic-node"/>
-  <circle cx="223.3" cy="98.4" r="15.8" class="ring" opacity="0"><animate attributeName="r" values="15.8;29.8" dur="3s" begin="2.70s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="2.70s" repeatCount="indefinite"/></circle>
-  <circle cx="223.3" cy="98.4" r="15.8" class="topic-node"/>
-  <text class="topic" x="450.0" y="30.4" text-anchor="middle">deepfake detection</text>
-  <text class="topic" x="704.7" y="102.4" text-anchor="start">detector benchmarks</text>
-  <text class="topic" x="756.3" y="202.3" text-anchor="start">document forgery</text>
-  <text class="topic" x="599.4" y="282.3" text-anchor="start">LLM evaluation</text>
-  <text class="topic" x="300.6" y="282.3" text-anchor="end">behavioral signals</text>
-  <text class="topic" x="148.1" y="202.3" text-anchor="end">scam call audio</text>
-  <text class="topic" x="197.5" y="102.4" text-anchor="end">in-the-wild datasets</text>
+  <circle cx="629.8" cy="98.4" r="18.0" class="ring" opacity="0"><animate attributeName="r" values="18.0;32.0" dur="3s" begin="0.45s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="0.45s" repeatCount="indefinite"/></circle>
+  <circle cx="629.8" cy="98.4" r="18.0" class="topic-node"/>
+  <circle cx="674.2" cy="198.3" r="13.6" class="ring" opacity="0"><animate attributeName="r" values="13.6;27.6" dur="3s" begin="0.90s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="0.90s" repeatCount="indefinite"/></circle>
+  <circle cx="674.2" cy="198.3" r="13.6" class="topic-node"/>
+  <circle cx="549.8" cy="278.3" r="13.6" class="ring" opacity="0"><animate attributeName="r" values="13.6;27.6" dur="3s" begin="1.35s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="1.35s" repeatCount="indefinite"/></circle>
+  <circle cx="549.8" cy="278.3" r="13.6" class="topic-node"/>
+  <circle cx="350.2" cy="278.3" r="13.6" class="ring" opacity="0"><animate attributeName="r" values="13.6;27.6" dur="3s" begin="1.80s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="1.80s" repeatCount="indefinite"/></circle>
+  <circle cx="350.2" cy="278.3" r="13.6" class="topic-node"/>
+  <circle cx="225.8" cy="198.3" r="9.2" class="ring" opacity="0"><animate attributeName="r" values="9.2;23.2" dur="3s" begin="2.25s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="2.25s" repeatCount="indefinite"/></circle>
+  <circle cx="225.8" cy="198.3" r="9.2" class="topic-node"/>
+  <circle cx="270.2" cy="98.4" r="15.8" class="ring" opacity="0"><animate attributeName="r" values="15.8;29.8" dur="3s" begin="2.70s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0" dur="3s" begin="2.70s" repeatCount="indefinite"/></circle>
+  <circle cx="270.2" cy="98.4" r="15.8" class="topic-node"/>
+  <text class="topic" x="450.0" y="30.4" text-anchor="middle">Deepfake/Gen AI Detection</text>
+  <text class="topic" x="657.8" y="102.4" text-anchor="start">AI Fraud detection benchmarks</text>
+  <text class="topic" x="697.8" y="202.3" text-anchor="start">AI Document Forgery</text>
+  <text class="topic" x="573.4" y="282.3" text-anchor="start">LLM evaluation</text>
+  <text class="topic" x="326.6" y="282.3" text-anchor="end">Deceptive behaviour signals</text>
+  <text class="topic" x="206.6" y="202.3" text-anchor="end">Scam call voice analysis</text>
+  <text class="topic" x="244.4" y="102.4" text-anchor="end">In-the-wild forensic datasets</text>
   <circle cx="22" cy="336" r="4" class="paper"/>
   <text class="legend" x="32" y="340">paper</text>
 </svg>

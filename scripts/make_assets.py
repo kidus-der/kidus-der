@@ -27,13 +27,13 @@ PAPERS = [
 # ordered around the ring so related topics sit next to each other (shortest total edge length)
 TOPICS = ["deepfakes", "benchmarks", "documents", "llm eval", "behavioral", "audio", "datasets"]
 TOPIC_LABELS = {
-    "deepfakes": "deepfake detection",
-    "benchmarks": "detector benchmarks",
-    "documents": "document forgery",
+    "deepfakes": "Deepfake/Gen AI Detection",
+    "benchmarks": "AI Fraud detection benchmarks",
+    "documents": "AI Document Forgery",
     "llm eval": "LLM evaluation",
-    "behavioral": "behavioral signals",
-    "audio": "scam call audio",
-    "datasets": "in-the-wild datasets",
+    "behavioral": "Deceptive behaviour signals",
+    "audio": "Scam call voice analysis",
+    "datasets": "In-the-wild forensic datasets",
 }
 PULL_MULTI, PULL_SINGLE, JITTER = 0.78, 0.62, 13
 
@@ -141,7 +141,7 @@ def topic_label(name, x, y, cx, radius):
 
 def research_svg(t):
     cx, cy = 450, 172
-    topics = topic_positions(cx, cy, rx=290, ry=118)
+    topics = topic_positions(cx, cy, rx=230, ry=118)
     papers = paper_positions(topics, cx, cy)
     counts = {name: sum(name in tags for _, tags in PAPERS) for name in TOPICS}
 
@@ -182,7 +182,7 @@ def research_svg(t):
     .paper {{ fill: {t["fg"]}; }}
     .topic-node {{ fill: {t["accent"]}; }}
     .ring {{ fill: none; stroke: {t["accent"]}; stroke-width: 1.5; }}
-    .topic {{ font: 500 13px {MONO}; fill: {t["fg"]}; }}
+    .topic {{ font: 500 12px {MONO}; fill: {t["fg"]}; }}
     .legend {{ font: 400 12px {MONO}; fill: {t["muted"]}; }}
   </style>
   {body}
