@@ -41,8 +41,8 @@ The full list is on [my site](https://www.kidusder.com/about#publications) and [
 ### stuff I build with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,django,flask,ts,js,react,nextjs,tailwind,aws,docker,kubernetes,postgres,mongodb,c,java,r,git,linux&perline=11&theme=dark">
-  <img alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Django, Flask, TypeScript, JavaScript, React, Next.js, Tailwind, AWS, Docker, Kubernetes, Postgres, MongoDB, C, Java, R, Git, Linux" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,django,flask,ts,js,react,nextjs,tailwind,aws,docker,kubernetes,postgres,mongodb,c,java,r,git,linux&perline=11&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cdjango%2Cflask%2Cts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Caws%2Cdocker%2Ckubernetes%2Cpostgres%2Cmongodb%2Cc%2Cjava%2Cr%2Cgit%2Clinux&perline=11&theme=dark">
+  <img alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Django, Flask, TypeScript, JavaScript, React, Next.js, Tailwind, AWS, Docker, Kubernetes, Postgres, MongoDB, C, Java, R, Git, Linux" src="https://skillicons.dev/icons?i=py%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cdjango%2Cflask%2Cts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Caws%2Cdocker%2Ckubernetes%2Cpostgres%2Cmongodb%2Cc%2Cjava%2Cr%2Cgit%2Clinux&perline=11&theme=light">
 </picture>
 
 ### on github
