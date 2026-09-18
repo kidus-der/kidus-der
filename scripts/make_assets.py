@@ -179,8 +179,6 @@ def research_svg(t):
   {body}
   <circle cx="22" cy="336" r="4" class="paper"/>
   <text class="legend" x="32" y="340">paper</text>
-  <circle cx="96" cy="336" r="6" class="topic-node"/>
-  <text class="legend" x="108" y="340">topic (bigger = more papers)</text>
 </svg>
 """
 
