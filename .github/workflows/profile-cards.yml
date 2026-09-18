@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  CARD_BASE: username=kidus-der&hide_border=true&bg_color=00000000
+  CARD_BASE: username=kidus-der&hide_border=true&bg_color=00000000&disable_animations=true
   DARK: title_color=E8B06A&icon_color=E8B06A&ring_color=E8B06A&text_color=C9D1D9
   LIGHT: title_color=A8641A&icon_color=A8641A&ring_color=A8641A&text_color=3B434B
 
@@ -23,7 +23,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: ${{ env.CARD_BASE }}&${{ env.DARK }}&show_icons=true&include_all_commits=true&custom_title=on github
+          options: ${{ env.CARD_BASE }}&${{ env.DARK }}&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars,issues&show=reviews,prs_merged&custom_title=on github
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -32,7 +32,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: ${{ env.CARD_BASE }}&${{ env.LIGHT }}&show_icons=true&include_all_commits=true&custom_title=on github
+          options: ${{ env.CARD_BASE }}&${{ env.LIGHT }}&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars,issues&show=reviews,prs_merged&custom_title=on github
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
