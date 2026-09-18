@@ -26,6 +26,15 @@ PAPERS = [
 ]
 # ordered around the ring so related topics sit next to each other (shortest total edge length)
 TOPICS = ["deepfakes", "benchmarks", "documents", "llm eval", "behavioral", "audio", "datasets"]
+TOPIC_LABELS = {
+    "deepfakes": "deepfake detection",
+    "benchmarks": "detector benchmarks",
+    "documents": "document forgery",
+    "llm eval": "LLM evaluation",
+    "behavioral": "behavioral signals",
+    "audio": "scam call audio",
+    "datasets": "in-the-wild datasets",
+}
 PULL_MULTI, PULL_SINGLE, JITTER = 0.78, 0.62, 13
 
 # (group label, [(simple-icons slug, label)])
@@ -127,7 +136,7 @@ def topic_label(name, x, y, cx, radius):
         anchor, lx, ly = "start", x + radius + 10, y + 4
     else:
         anchor, lx, ly = "end", x - radius - 10, y + 4
-    return f'<text class="topic" x="{lx:.1f}" y="{ly:.1f}" text-anchor="{anchor}">{name}</text>'
+    return f'<text class="topic" x="{lx:.1f}" y="{ly:.1f}" text-anchor="{anchor}">{TOPIC_LABELS[name]}</text>'
 
 
 def research_svg(t):
@@ -166,7 +175,7 @@ def research_svg(t):
         labels.append(topic_label(name, x, y, cx, radius))
 
     body = "\n  ".join(edges + pulses + nodes + labels)
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-label="Research topics: {', '.join(TOPICS)}">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-label="Research topics: {', '.join(TOPIC_LABELS[n] for n in TOPICS)}">
   <style>
     .edge {{ stroke: {t["edge"]}; stroke-width: 1.2; fill: none; }}
     .pulse {{ fill: {t["accent"]}; }}
